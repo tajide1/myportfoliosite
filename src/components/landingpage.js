@@ -12,19 +12,26 @@ class Landing extends Component {
                         className="avatar-img"
                         />
                        <div className="banner-text">
-                           <h1>Full Stack Web Developer</h1>
+                           <h1>Full Stack Software Developer</h1>
                            <hr/>
-                           <p>HTML/CSS | JavaScript | NodeJS | MongoDB | Express</p>
+                           <p>HTML/CSS | JavaScript | NodeJS | MongoDB | Express | Java | Python</p>
                            <div className="social-links">
                                {/* linkedin */}
-                               <a href="http://google.com"  rel="noopener noreferrer" target="_blank">
+                               <a href="https://www.linkedin.com/in/oluwatobi-ajide-9b6b43122/"  rel="noopener noreferrer" target="_blank">
                                    <i className="fa fa-linkedin-square" aria-hidden="true"/>
                                </a>
                                 {/* github */}
-                                <a href="http://google.com"  rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/tajide1"  rel="noopener noreferrer" target="_blank">
                                    <i className="fa fa-github-square" aria-hidden="true"/>
                                </a>
-                               
+                               {/* Instagram */}
+                               <a href="https://www.instagram.com/poseidensea/"  rel="noopener noreferrer" target="_blank">
+                                   <i className="fa fa-instagram-square" aria-hidden="true"/>
+                               </a>
+                               {/* twitter */}
+                               <a href="https://twitter.com/PoseidenSea"  rel="noopener noreferrer" target="_blank">
+                                   <i className="fa fa-twitter-square" aria-hidden="true"/>
+                               </a>
                             </div>
                        </div>
                    </Cell>
