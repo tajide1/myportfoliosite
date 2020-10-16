@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="demo-big-content">
     <Layout>
-        <Header className="header-color" title="Title" scroll>
+        <Header className="header-color" title={<Link to="/"><i className="fa fa-folder-open" aria-hidden="true"/></Link>}  scroll>
             <Navigation>
                 <Link to="/resume">Resume</Link>
                 <Link to="/aboutme">About Me</Link>

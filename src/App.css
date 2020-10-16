@@ -5,6 +5,11 @@
 
 }
 
+.header-color i {
+  color: white;
+  font-size: 3em;
+}
+
 .landing-grid {
   background: #283c86;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
@@ -61,3 +66,4 @@
   font-size: 5em;
   padding: 8px;
 }
+
