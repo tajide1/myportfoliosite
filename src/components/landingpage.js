@@ -15,7 +15,7 @@ class Landing extends Component {
                            <h1>Full Stack Software Developer</h1>
                            <hr/>
                            <p>HTML/CSS | JavaScript | NodeJS | MongoDB | Express | Java | Python</p>
-                           <div className="social-links">
+                           <div className="soci8al-links">
                                {/* linkedin */}
                                <a href="https://www.linkedin.com/in/oluwatobi-ajide-9b6b43122/"  rel="noopener noreferrer" target="_blank">
                                    <i className="fa fa-linkedin-square" aria-hidden="true"/>
